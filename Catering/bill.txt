@@ -1,0 +1,5 @@
+Comanda cu numarul 1 a fost pusa la data 2021-05-27T16:39:17.599764100
+De catre Marcel cu id ul1 in valoare de 176
+Iar produsele comandate sunt:
+"""Blanketed"" Eggplant "
+"""Blanketed"" Eggplant "
